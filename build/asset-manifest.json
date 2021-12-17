@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/static/css/main.63a94c9f.chunk.css",
+    "main.js": "/static/js/main.ded6ce3a.chunk.js",
+    "main.js.map": "/static/js/main.ded6ce3a.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.d935bac7.js",
+    "runtime-main.js.map": "/static/js/runtime-main.d935bac7.js.map",
+    "static/js/2.796a6b97.chunk.js": "/static/js/2.796a6b97.chunk.js",
+    "static/js/2.796a6b97.chunk.js.map": "/static/js/2.796a6b97.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.63a94c9f.chunk.css.map": "/static/css/main.63a94c9f.chunk.css.map",
+    "static/js/2.796a6b97.chunk.js.LICENSE.txt": "/static/js/2.796a6b97.chunk.js.LICENSE.txt",
+    "static/media/Section.module.css": "/static/media/solar-roof.acfd9045.jpg",
+    "static/media/down-arrow.9b52668f.svg": "/static/media/down-arrow.9b52668f.svg",
+    "static/media/logo.a7b59bc6.svg": "/static/media/logo.a7b59bc6.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d935bac7.js",
+    "static/js/2.796a6b97.chunk.js",
+    "static/css/main.63a94c9f.chunk.css",
+    "static/js/main.ded6ce3a.chunk.js"
+  ]
+}

@@ -1,0 +1,13 @@
+* {
+  font-family: "Vazir", sans-serif !important;
+  color: #393341;
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+body {
+  width: 100%;
+}
+a {
+  text-decoration: none;
+}

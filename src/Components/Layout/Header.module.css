@@ -1,0 +1,85 @@
+.container {
+  min-height: 60px;
+  align-items: center;
+  padding: 0 20px;
+  display: flex;
+  align-items: center;
+  top: 0;
+  left: 0;
+  right: 0;
+  justify-content: space-between;
+  gap: 11rem;
+}
+.menu {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 1rem;
+  margin-left: 3.5rem;
+  flex: 1;
+}
+@media (max-width: 768px) {
+  .menu {
+    display: none;
+  }
+  .container img {
+    position: relative;
+    left: 4rem;
+  }
+}
+.menu a {
+  font-weight: 600;
+  text-transform: uppercase;
+  padding: 0 10px;
+  flex-wrap: nowrap;
+}
+
+.rightmenu {
+  display: flex;
+  align-items: center;
+  gap: 1rem;
+}
+.rightmenu a {
+  font-weight: 600;
+  text-transform: uppercase;
+  margin-right: 10px;
+  display: flex;
+  align-items: center;
+}
+.burger-nav {
+  position: fixed;
+  top: 0;
+  bottom: 0;
+  right: 0;
+  background: white;
+  width: 300px;
+  padding-left: 3rem;
+  padding-top: 5rem;
+  margin-left: 3rem;
+  list-style: none;
+}
+
+.burger-nav li {
+  margin-bottom: 1.7rem;
+  border-bottom: 1px solid rgba(0, 0, 0, 0.2);
+}
+.burger-nav a {
+  font-weight: 600;
+}
+.svg-btn {
+  border: none;
+  height: 40px;
+  width: 40px;
+  position: absolute;
+  transform: translate(12rem, -3.5rem);
+}
+.cancel-icon {
+  height: 24px;
+  width: 24px;
+  stroke: black;
+}
+.fadeout {
+  visibility: hidden;
+  opacity: 0;
+  transition: visibility 0s 2s, opacity 2s linear;
+}
